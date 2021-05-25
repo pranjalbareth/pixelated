@@ -1,6 +1,6 @@
-# pixelated
+# Pixelated
 
-A new Flutter project.
+Flutter based Wallpaper App built using [Pexels API](https://www.pexels.com/api/)
 
 ## Getting Started
 
