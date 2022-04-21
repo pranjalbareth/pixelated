@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px"/>  Pixelated
+# <img src="https://media.tenor.com/images/12a187d8498d61fc4dbb0f61a8e28e67/tenor.gif" width="45px"/>  Pixelated
 
 Flutter based Wallpaper App built using [Pexels API](https://www.pexels.com/api/)
 
